@@ -1,7 +1,7 @@
 # LibraryManager
 
 MacOS app designed to help with library management.
-Local data persistance provided with realm database.
+Local data persistence provided with realm database.
 
 <img src="./images/main.png" width="250" height="250">
 
