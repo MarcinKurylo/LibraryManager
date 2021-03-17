@@ -76,6 +76,7 @@ class BorrowOrReturnController: NSViewController {
         if let action = actionText {
             actionLabel.stringValue = action
         }
+        message.stringValue = ""
     }
     
 }
